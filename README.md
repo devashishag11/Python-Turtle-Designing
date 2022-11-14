@@ -7,6 +7,8 @@ This repository contains all of the source code of turtle programs.
 1. Introduction
 2. Pikachu
 3. Indian Tricolor
+4. Olympic Logo
+5. Mahadev
 
 # Introduction
 
